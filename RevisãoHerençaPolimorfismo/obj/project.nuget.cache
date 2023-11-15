@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "200pdyH2iHufhn3YIH5kucDs2hmyy8biksSj1400S2pwxQLh+NAHPpO4dcS1rmRRmQ3dsCd+ZF+CfHnPPlizxA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos C#\\RevisãoHerençaPolimorfismo\\RevisãoHerençaPolimorfismo\\RevisãoHerençaPolimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wellington\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.21\\microsoft.netcore.app.host.win-x86.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

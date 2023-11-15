@@ -1,0 +1,14 @@
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\bin\Debug\net6.0\RevisãoHerençaPolimorfismo.exe
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\bin\Debug\net6.0\RevisãoHerençaPolimorfismo.deps.json
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\bin\Debug\net6.0\RevisãoHerençaPolimorfismo.runtimeconfig.json
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\bin\Debug\net6.0\RevisãoHerençaPolimorfismo.dll
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\bin\Debug\net6.0\RevisãoHerençaPolimorfismo.pdb
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.AssemblyInfoInputs.cache
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.AssemblyInfo.cs
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.dll
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\refint\RevisãoHerençaPolimorfismo.dll
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.pdb
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\RevisãoHerençaPolimorfismo.genruntimeconfig.cache
+D:\Projetos C#\RevisãoHerençaPolimorfismo\RevisãoHerençaPolimorfismo\obj\Debug\net6.0\ref\RevisãoHerençaPolimorfismo.dll
